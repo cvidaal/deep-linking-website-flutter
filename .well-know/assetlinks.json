@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.carlosvidal.miscelaneos",
+    "sha256_cert_fingerprints":
+    ["7F:EA:B9:13:B4:6A:B4:B7:EA:3D:99:83:FE:A9:A0:BA:62:14:59:12:91:DC:3D:8B:7A:1B:9C:A8:4A:4A:FA:EB"]
+  }
+}]
